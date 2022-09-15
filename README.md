@@ -1,1 +1,0 @@
-# poc-undetected_chrome
